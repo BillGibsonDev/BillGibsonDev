@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Greetings and Welcome to my Github! 
+
+My name is Bill Gibson aka DevGibby. 
+
+I make user expierences in HTML, CSS, JavaScript and React. 
+
+I am currently seeking opportunities for employment as a Frontend Web Developer!
 <!--
 **DevGibby/DevGibby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
