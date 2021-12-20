@@ -2,7 +2,7 @@
 
 Greetings and Welcome to my Github! 
 
-My name is Bill Gibson aka DevGibby. 
+My name is Bill Gibson.
 
 I make user experiences in HTML, CSS, JavaScript and React. 
 
