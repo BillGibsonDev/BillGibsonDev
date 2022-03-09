@@ -4,9 +4,11 @@ Greetings and Welcome to my Github!
 
 My name is Bill Gibson.
 
-I make user experiences in HTML, CSS, JavaScript and React. 
+I make user experiences in HTML, CSS, JavaScript, React and more.
 
-I am currently seeking opportunities for employment as a Frontend Web Developer!
+I am currently seeking opportunities for employment as a Frontend Web Developer.
+
+I occasionaly stream basic programming projects and more on Twitch! https://www.twitch.tv/devgibby
 
 My Portfolio: https://billgibson.net/#/
 <!--
