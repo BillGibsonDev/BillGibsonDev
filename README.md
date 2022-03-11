@@ -10,7 +10,7 @@ I am currently seeking opportunities for employment as a Frontend Web Developer.
 
 I occasionaly stream basic programming projects and more on Twitch! https://www.twitch.tv/devgibby
 
-My Portfolio: https://billgibson.net/#/
+My Portfolio: https://billgibson.net/
 <!--
 **DevGibby/DevGibby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
