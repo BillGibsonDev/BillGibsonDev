@@ -4,11 +4,11 @@ Greetings and Welcome to my Github!
 
 ### :man_technologist: About Me :
 
-I make user experiences in HTML, CSS, JavaScript, React and more.
+- :telescope: I make user experiences in HTML, CSS, JavaScript, React and more.
 
-I am currently seeking opportunities for employment as a Frontend Web Developer.
+- :seedling: I am currently seeking opportunities for employment as a Frontend Web Developer. I occasionaly stream basic programming projects and more on Twitch! https://www.twitch.tv/gibbycodes
 
-I occasionaly stream basic programming projects and more on Twitch! https://www.twitch.tv/gibbycodes
+- :zap: In my free time I enjoy lifting weights, video games and reading.
 
 My Portfolio: https://billgibson.net/
 
