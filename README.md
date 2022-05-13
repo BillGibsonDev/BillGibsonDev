@@ -1,6 +1,6 @@
-### Hi there 👋
-
-Greetings and Welcome to my Github!
+<div id="header" align="center">
+  <img src="https://www.pexels.com/photo/close-up-photo-of-programming-of-codes-546819/" width="100"/>
+</div>
 
 <hr />
 
