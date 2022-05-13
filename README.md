@@ -2,6 +2,8 @@
 
 Greetings and Welcome to my Github!
 
+<hr />
+
 ### :man_technologist: About Me :
 
 - :telescope: I make user experiences in HTML, CSS, JavaScript, React and more.
@@ -38,6 +40,12 @@ Greetings and Welcome to my Github!
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
 </div>
+
+<hr />
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GibbyBreaksTech&theme=highcontrast&ring=blue)](https://git.io/streak-stats)
 
 <!--
 **DevGibby/DevGibby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
