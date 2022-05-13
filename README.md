@@ -2,13 +2,13 @@
 
 Greetings and Welcome to my Github!
 
-My name is Bill.
+### :man_technologist: About Me :
 
 I make user experiences in HTML, CSS, JavaScript, React and more.
 
 I am currently seeking opportunities for employment as a Frontend Web Developer.
 
-I occasionaly stream basic programming projects and more on Twitch! https://www.twitch.tv/gibbycodesy
+I occasionaly stream basic programming projects and more on Twitch! https://www.twitch.tv/gibbycodes
 
 My Portfolio: https://billgibson.net/
 
@@ -30,7 +30,7 @@ My Portfolio: https://billgibson.net/
 <hr />
 ### :hammer_and_wrench: My Languages and Tools :
 
-<div>
+<div id="languages">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
