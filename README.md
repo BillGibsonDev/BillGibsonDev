@@ -10,9 +10,9 @@ Greetings and Welcome to my Github!
 
 - :zap: In my free time I enjoy lifting weights, video games and reading.
 
-My Portfolio: https://billgibson.net/
+### My Portfolio: https://billgibson.net/
 
-📫 How to Reach me :
+### 📫 How to Reach me :
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/bill-gibson-868182104/">
@@ -28,6 +28,7 @@ My Portfolio: https://billgibson.net/
 </div>
 
 <hr />
+
 ### :hammer_and_wrench: My Languages and Tools :
 
 <div id="languages">
