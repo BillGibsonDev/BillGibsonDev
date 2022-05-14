@@ -19,7 +19,7 @@
 <hr />
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GibbyBreaksTech&theme=gotham)](https://git.io/streak-stats)
 </div>
 
 <hr />
@@ -60,14 +60,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
 </div>
-
-<hr />
-
-### :fire: My Stats :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GibbyBreaksTech&theme=gotham)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GibbyBreaksTech&layout=compact&theme=merko)](https://github.com/GibbyBreaksTech/github-readme-stats
 
 <!--
 **DevGibby/DevGibby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
