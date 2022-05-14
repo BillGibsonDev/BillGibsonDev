@@ -37,8 +37,6 @@
 
 - :zap: In my free time I enjoy lifting weights, playing video games and reading.
 
-### My Portfolio: https://billgibson.net/
-
 ### 📫 How to Reach me :
 
 <div id="badges">
@@ -58,18 +56,21 @@
 </div>
 
 <hr />
+<div align="center">
 
 ### :hammer_and_wrench: My Languages and Tools :
 
-<div id="languages">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-</div>
+  <div id="languages">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GibbyBreaksTech&layout=compact&theme=merko)
+
+</div>
 
 <!--
 **DevGibby/DevGibby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
