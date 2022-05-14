@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/bill-gibson-868182104/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https:billgibson.net"  target="_blank">
+    <a href="https://billgibson.net"  target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&?style=for-the-badge&logo=appveyor&logoColor=white" alt="Portfolio Badge"/>
     </a>
     <!--
@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 -->
-  <a href="https:billgibson.net"  target="_blank">
+  <a href="https://billgibson.net"  target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&?style=for-the-badge&logo=appveyor&logoColor=white" alt="Portfolio Badge"/>
   </a>
   <a href="https://twitter.com/GibbyBreaksTech"  target="_blank">
