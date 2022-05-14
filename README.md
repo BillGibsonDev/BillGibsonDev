@@ -40,7 +40,7 @@
 
 <div id="badges">
   <a href="https:billgibson.net">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&?style=for-the-badge&logo=appveyor&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&?style=for-the-badge&logo=appveyor&logoColor=white" alt="Portfolio Badge"/>
   <a href="https://www.linkedin.com/in/bill-gibson-868182104/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
