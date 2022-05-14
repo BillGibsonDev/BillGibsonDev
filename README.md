@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/stickers/art-computers-interpret-sh3y88tgOINC8" width="100"/>
+  <img src="https://media.giphy.com/media/sh3y88tgOINC8/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/bill-gibson-868182104/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
