@@ -1,5 +1,19 @@
 <div id="header" align="center">
-  <img src="https://www.pexels.com/photo/close-up-photo-of-programming-of-codes-546819/" width="100"/>
+  <img src="https://giphy.com/stickers/art-computers-interpret-sh3y88tgOINC8" width="100"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/bill-gibson-868182104/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <!--
+    <a href="your-youtube-URL">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+    -->
+    <a href="https://twitter.com/GibbyBreaksTech">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=GibbyBreaksTech&style=flat-square&color=blue" alt=""/>
 </div>
 
 <hr />
