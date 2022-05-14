@@ -30,7 +30,7 @@
 
 - :seedling: I am currently seeking opportunities for employment as a Frontend Web Developer. I occasionaly stream basic programming projects and more on Twitch! https://www.twitch.tv/gibbycodes
 
-- :zap: In my free time I enjoy lifting weights, video games and reading.
+- :zap: In my free time I enjoy lifting weights, playing video games and reading.
 
 ### My Portfolio: https://billgibson.net/
 
@@ -66,6 +66,8 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GibbyBreaksTech&theme=gotham)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GibbyBreaksTech&layout=compact)](https://github.com/GibbyBreaksTech/github-readme-stats
 
 <!--
 **DevGibby/DevGibby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
