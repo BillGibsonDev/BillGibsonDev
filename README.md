@@ -29,33 +29,38 @@
 
 <hr />
 
-### :man_technologist: About Me :
+<div align="center">
 
-- :telescope: I make user experiences in HTML, CSS, JavaScript, React and more.
+  ### :man_technologist: About Me :
 
-- :seedling: I am currently seeking opportunities for employment as a Frontend Web Developer. I occasionaly stream basic programming projects and more on Twitch! https://www.twitch.tv/gibbycodes
+  - :telescope: I make user experiences in HTML, CSS, JavaScript, React and more.
 
-- :zap: In my free time I enjoy lifting weights, playing video games and reading.
+  - :seedling: I am currently seeking opportunities for employment as a Frontend Web Developer. I occasionaly stream basic programming projects and more on Twitch! https://www.twitch.tv/gibbycodes
 
-### 📫 How to Reach me :
+  - :zap: In my free time I enjoy lifting weights, playing video games and reading.
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/bill-gibson-868182104/"  target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <!--<a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
--->
-  <a href="https://billgibson.net"  target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&?style=for-the-badge&logo=appveyor&logoColor=white" alt="Portfolio Badge"/>
-  </a>
-  <a href="https://twitter.com/GibbyBreaksTech"  target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+  ### 📫 How to Reach me :
 
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/bill-gibson-868182104/"  target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <!--<a href="your-youtube-URL">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+  -->
+    <a href="https://billgibson.net"  target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&?style=for-the-badge&logo=appveyor&logoColor=white" alt="Portfolio Badge"/>
+    </a>
+    <a href="https://twitter.com/GibbyBreaksTech"  target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+
+</div 
+  
 <hr />
+  
 <div align="center">
 
 ### :hammer_and_wrench: My Languages and Tools :
