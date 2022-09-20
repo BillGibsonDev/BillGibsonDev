@@ -33,7 +33,7 @@
 
   - :telescope: I make user experiences in HTML, CSS, JavaScript, React and more.
 
-  - :seedling: I am currently seeking opportunities for employment as a Frontend Web Developer. I occasionaly stream basic programming projects and more on Twitch! https://www.twitch.tv/gibbybreakstech
+  - :seedling: I am currently seeking opportunities for employment as a Frontend Web Developer.
 
   - :zap: In my free time I enjoy lifting weights, playing video games and reading.
 
@@ -43,7 +43,7 @@
     <a href="https://www.linkedin.com/in/bill-gibson-868182104/"  target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <!--<a href="your-youtube-URL">
+    <!--<a href="https://www.youtube.com/channel/UCBn1yKL7NwYywhGyVNSILQA">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
   -->
