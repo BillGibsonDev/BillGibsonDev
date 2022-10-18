@@ -10,18 +10,18 @@
     <a href="your-youtube-URL">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="https://twitter.com/GibbyBreaksTech"  target="_blank">
+    <a href="https://twitter.com/BillGibsonDev"  target="_blank">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=GibbyBreaksTech&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=BillGibsonDev&style=flat-square&color=blue" alt=""/>
 </div>
 
 <hr />
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GibbyBreaksTech&theme=prussian)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BillGibsonDev&theme=prussian)](https://git.io/streak-stats)
 
 </div>
 
@@ -47,7 +47,7 @@
     <a href="https://billgibson.net"  target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&?style=for-the-badge&logo=appveyor&logoColor=white" alt="Portfolio Badge"/>
     </a>
-    <a href="https://twitter.com/GibbyBreaksTech"  target="_blank">
+    <a href="https://twitter.com/BillGibsonDev"  target="_blank">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
@@ -68,21 +68,6 @@
 
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GibbyBreaksTech&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BillGibsonDev&layout=compact&theme=dark)
 
 </div>
-
-<!--
-**DevGibby/DevGibby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
