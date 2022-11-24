@@ -33,7 +33,7 @@
 
   - :seedling: I am currently seeking opportunities for employment as a Frontend Web Developer.
 
-  - :zap: In my free time I enjoy lifting weights, playing video games and reading.
+  - :zap: In my free time I enjoy lifting weights, playing video games, reading and football.
 
   ### 📫 How to Reach me :
 
