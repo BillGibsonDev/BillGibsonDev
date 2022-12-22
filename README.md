@@ -27,7 +27,7 @@
 
 <hr />
 
-   :man_technologist: About Me :
+   ### :man_technologist: About Me :
 
   - :telescope: I make user experiences in HTML, CSS, JavaScript, React and more.
 
