@@ -28,7 +28,7 @@
 <hr />
 
 <div align="center>
-  ### :man_technologist: About Me :
+            <h3> :man_technologist: About Me :</div>
 
   - :telescope: I make user experiences in HTML, CSS, JavaScript, React and more.
 
