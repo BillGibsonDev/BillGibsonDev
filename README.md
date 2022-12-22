@@ -27,8 +27,7 @@
 
 <hr />
 
-<div align="center>
-            <h3> :man_technologist: About Me :</div>
+   :man_technologist: About Me :
 
   - :telescope: I make user experiences in HTML, CSS, JavaScript, React and more.
 
@@ -52,8 +51,6 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
-                                                                                                                               
- </div>
                                                                                                                                
 <hr />
   
