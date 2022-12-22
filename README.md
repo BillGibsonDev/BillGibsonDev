@@ -38,7 +38,7 @@
 
   ### 📫 How to Reach me :
 
-  <div id="badges">
+  <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/bill-gibson-868182104/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
