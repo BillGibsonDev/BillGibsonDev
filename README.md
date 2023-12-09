@@ -19,14 +19,6 @@
 
 <hr />
 
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BillGibsonDev&theme=prussian)](https://git.io/streak-stats)
-
-</div>
-
-<hr />
-
    ### :man_technologist: About Me :
 
   - :telescope: I make user experiences in HTML, CSS, JavaScript, React and more.
