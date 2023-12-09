@@ -23,9 +23,9 @@
 
   - :telescope: I make user experiences in HTML, CSS, JavaScript, React and more.
 
-  - :seedling: I am currently seeking opportunities for employment as a Frontend Web Developer.
+  - :seedling: I am currently a Volunteer Software Engineer at LAIT911.
 
-  - :zap: In my free time I enjoy lifting weights, playing video games, reading and football.
+  - :zap: In my free time I enjoy spending time with my son, going to the gym, video games and reading.
                                                                                                                                
 <hr />
   
