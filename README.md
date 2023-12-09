@@ -19,7 +19,7 @@
 
 <hr />
 
-   ### :man_technologist: About Me :
+   ### About Me :
 
   - :telescope: I make user experiences in HTML, CSS, JavaScript, React and more.
 
@@ -31,7 +31,7 @@
   
 <div align="center">
 
-### :hammer_and_wrench: My Languages and Tools :
+### My Languages and Tools :
 
   <div id="languages">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
