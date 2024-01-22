@@ -20,7 +20,7 @@
 
    ### About Me :
 
-  - :telescope: I make user experiences in HTML, CSS, JavaScript, React and more.
+  - 🔧 I create with HTML, CSS, JavaScript, React and more.
 
   - :seedling: I am currently a Volunteer Software Engineer at LAIT911.
 
