@@ -10,7 +10,7 @@
     <a href="https://www.youtube.com/channel/UCBn1yKL7NwYywhGyVNSILQA">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="https://twitter.com/BillGibsonDev"  target="_blank">
+    <a href="https://twitter.com/Bill_gib_dev"  target="_blank">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
