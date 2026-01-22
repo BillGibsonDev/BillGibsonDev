@@ -20,8 +20,8 @@
 
    ### About Me :
 
-  - 🛠️ I create with HTML, CSS, JavaScript, React and more.
+  - 🛠️ I create with JavaScript, React and more.
 
   - 🧙‍♂ I am currently a Volunteer Software Engineer at LAIT911.
 
-  - :zap: In my free time I enjoy spending time with my son, going to the gym, video games and reading.
+  - :zap: In my free time I enjoy spending time with my family, lifting weights and reading.
