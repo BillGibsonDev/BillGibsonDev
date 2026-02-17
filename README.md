@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/sh3y88tgOINC8/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/bill-gibson-868182104/" target="_blank">
+    <a href="https://www.linkedin.com/in/bill-gibson-087669373/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://billgibson.net"  target="_blank">
